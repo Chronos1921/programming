@@ -1,0 +1,8 @@
+Head Details: Mr.Alpha
+48600.0
+Assistant Details: Mr.Beta
+43890.0
+Mr. Gamma
+40750.0
+Library Details: Mrs. Delta
+32900.0
